@@ -70,3 +70,7 @@ pytest tests/ -q
 
 - Changing the embedding model after indexing makes old vectors incompatible; re-index after switching.
 - Built as part of Module 2 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
